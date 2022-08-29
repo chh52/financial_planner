@@ -39,4 +39,4 @@ This was created by Cuong Ha
 ---
 
 ## License
-public![image](https://user-images.githubusercontent.com/107331964/187110976-b8b1b928-8025-4c4b-a849-6deb1ecf2edc.png)
+public
